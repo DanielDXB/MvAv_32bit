@@ -1,0 +1,47 @@
+Active-HDL 11.1.262.7351 2021-05-26 18:37:12
+
+Elaboration top modules:
+Architecture                  main(MAINBOX)
+
+
+---------------------------------------------------------------------------------------------------------
+Entity            | Architecture  | Library       | Info | Compiler Version        | Compilation Options
+---------------------------------------------------------------------------------------------------------
+MAINBOX           | main          | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+sumator           | suma          | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+REGISTRU_SHIFTARE | shift         | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+prng              | behavioral    | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+prng8             | behavioral    | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+CLK_DIV           | bhv           | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+SUMATOR_2_8_BITI  | sum           | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+SUMATOR_4_8_BITI  | sum           | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+SUMATOR_8_8_BITI  | sum           | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+SUMATOR_16_8_BITI | sum           | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+SUMATOR_2_4_BITI  | sum           | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+SUMATOR_4_4_BITI  | sum           | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+SUMATOR_8_4_BITI  | sum           | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+SUMATOR_16_4_BITI | sum           | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+SUMATOR_1_BIT     | SUMATOR_1_BIT | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+SUMATOR_2_11BITI  | sum           | pseudoaleator |      | 11.1.262.7351 (Windows) | -O3
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+VHDL Package                      | Library       | Info | Compiler Version        | Compilation Options
+---------------------------------------------------------------------------------------------------------
+standard                          | std           |      |                         | <unavailable>
+TEXTIO                            | std           |      |                         | <unavailable>
+std_logic_1164                    | ieee          |      |                         | <unavailable>
+vectorul8                         | pseudoaleator |      |                         | <unavailable>
+vectorul4                         | pseudoaleator |      |                         | <unavailable>
+std_logic_arith                   | ieee          |      |                         | <unavailable>
+STD_LOGIC_UNSIGNED                | ieee          |      |                         | <unavailable>
+NUMERIC_STD                       | ieee          |      |                         | <unavailable>
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+Library                           | Comment
+---------------------------------------------------------------------------------------------------------
+ieee                              | Standard IEEE packages library
+pseudoaleator                     | None
+std                               | Standard VHDL library
+---------------------------------------------------------------------------------------------------------

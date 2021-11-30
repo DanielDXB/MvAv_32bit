@@ -1,0 +1,72 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=PSEUDOALEATOR
+
+[Library]
+PSEUDOALEATOR=.\PSEUDOALEATOR\PSEUDOALEATOR.lib
+
+[$LibMap$]
+PSEUDOALEATOR=.
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=mainbox|main|0         
+ShowHide=ShowTopLevel
+Selected=
+
+[Files.Data]
+.\src\MAINBOX.vhd=VHDL Source Code
+.\src\REGISTRU_SHIFTARE.vhd=VHDL Source Code
+.\src\SUMATOR_GENERAL.vhd=VHDL Source Code
+.\src\prng4.vhd=VHDL Source Code
+.\src\prng8.vhd=VHDL Source Code
+.\src\SUMATOR_2_8BITI.vhd=VHDL Source Code
+.\src\SUMATOR_4_8BITI.vhd=VHDL Source Code
+.\src\SUMATOR_8_8BITI.vhd=VHDL Source Code
+.\src\SUMATOR_16_8BITI.vhd=VHDL Source Code
+.\src\SUMATOR_2_4BITI.vhd=VHDL Source Code
+.\src\SUMATOR_4_4BITI.vhd=VHDL Source Code
+.\src\SUMATOR_8_4BITI.vhd=VHDL Source Code
+.\src\SUMATOR_16_4BITI.vhd=VHDL Source Code
+.\src\PACHETVECTOR8.vhd=VHDL Source Code
+.\src\PACHETVECTOR4.vhd=VHDL Source Code
+.\src\SUMATOR_1_BIT.vhd=VHDL Source Code
+.\src\SUMATOR_2_11BITI.vhd=VHDL Source Code
+.\src\DISPLAY.vhd=VHDL Source Code
+.\src\CLOCK_DIV.vhd=VHDL Source Code
+
+[Files]
+/MAINBOX.vhd=-1
+/REGISTRU_SHIFTARE.vhd=-1
+/SUMATOR_GENERAL.vhd=-1
+/prng4.vhd=-1
+/prng8.vhd=-1
+/SUMATOR_2_8BITI.vhd=-1
+/SUMATOR_4_8BITI.vhd=-1
+/SUMATOR_8_8BITI.vhd=-1
+/SUMATOR_16_8BITI.vhd=-1
+/SUMATOR_2_4BITI.vhd=-1
+/SUMATOR_4_4BITI.vhd=-1
+/SUMATOR_8_4BITI.vhd=-1
+/SUMATOR_16_4BITI.vhd=-1
+/PACHETVECTOR8.vhd=-1
+/PACHETVECTOR4.vhd=-1
+/SUMATOR_1_BIT.vhd=-1
+/SUMATOR_2_11BITI.vhd=-1
+/CLOCK_DIV.vhd=-1
+/DISPLAY.vhd=-1
+
